@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Akatsuki Theme Colors: Deep Stealth Black & Glowing Crimson Red -->
+    <color name="akatsuki_black">#0A0A0C</color>
+    <color name="akatsuki_dark_surface">#16161A</color>
+    <color name="akatsuki_card_surface">#222228</color>
+    <color name="akatsuki_red">#E50914</color>
+    <color name="akatsuki_red_glow">#FF2A38</color>
+    <color name="akatsuki_red_dim">#6B050B</color>
+    <color name="akatsuki_white">#F5F5F7</color>
+    <color name="akatsuki_text_secondary">#9E9EA7</color>
+    <color name="akatsuki_cloud_white">#FFFFFF</color>
+</resources>

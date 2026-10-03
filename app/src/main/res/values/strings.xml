@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Akatsuki</string>
+    <string name="assistant_title">AKATSUKI AI</string>
+    <string name="status_ready">Ready for command, Sir.</string>
+    <string name="status_listening">Listening...</string>
+    <string name="status_thinking">Processing with Gemini Brain...</string>
+    <string name="status_speaking">Speaking...</string>
+    <string name="set_api_key">Set Gemini API Key</string>
+    <string name="enter_api_key">Enter your free Gemini API Key</string>
+    <string name="overlay_permission_required">Please enable Display Over Other Apps for Floating Akatsuki HUD.</string>
+</resources>
